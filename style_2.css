@@ -1,0 +1,42 @@
+*{
+	font-family: "微软雅黑";
+	margin: 0;
+}
+
+.jbxx ,.lxfs,.nlms,.jyjl,.xmjl{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+}
+.jbxx li, .lxfs li{
+	float: left;
+	margin-right:35px;  
+}
+h2{
+	clear:both;
+	margin:20px 0px 10px 0;
+}
+.clear{
+	clear:both;
+}
+span{
+	font-weight: bold;
+}
+
+
+.jl{
+	width: 200px;
+	background-color: #3f8ef9;
+	height: 660px;
+	float: left; 
+	text-align: center;
+	line-height: 10em;
+	color: white;
+}
+.zs{
+	float: left;
+	width: 800px;
+	height: 600px;
+	margin-left: 20px;
+}
